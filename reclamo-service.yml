@@ -1,0 +1,4 @@
+server: 
+  port: ${PORT:8891}
+
+message: Reclamo configuration server is alive!
